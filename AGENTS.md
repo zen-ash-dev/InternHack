@@ -8,9 +8,6 @@ InternHack is a full-stack internship/career platform for students with AI-power
 - **Client:** `cd client && npm run dev` (Vite on port 5173)
 - **Migrations:** Must run from `server/src/database/`, that's where `prisma.config.ts` lives
 
-## Repo Map
-**Always read `.Codex/REPO_MAP.md` before any editing task.** It maps every module, route, model, and component.
-
 ## Stack
 - **Client:** React 18 + Vite 7 + TailwindCSS 4 + React Router 7 + Framer Motion + Zustand + React Query
 - **Server:** Express 5 + TypeScript 5 + Prisma 7 + PostgreSQL
